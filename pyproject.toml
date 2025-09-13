@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gl-epka-bot"
+version = "0.1.0"
+description = "This is my pet project just to show how brillaint programer i am"
+authors = ["gl_epka <nechaevgleb@inbox.ru>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
