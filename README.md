@@ -1,4 +1,3 @@
-===
 I highly recommend you to listen brand new Kai Angel album - "damage".
 ===
 
